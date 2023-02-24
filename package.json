@@ -1,0 +1,15 @@
+{
+  "name": "morgan-logger",
+  "version": "1.0.0",
+  "description": "morgan logger used for practice purpose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "arsalan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
